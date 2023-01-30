@@ -11,7 +11,7 @@ Maven같은 관리도구를 사용하게 되면 지금까지 일일히 라이브
 3. war기반의 배포용으로도 자주 사용된다.
 
 ## Maven의 LifeCycle
-image.png
+https://miro.medium.com/v2/resize:fit:1100/format:webp/1*_-K1nhOZhHeCxW1nlZ9VBw.png
 Build : 각각의 phase에 연계된 goal을 실행하는 과정
 LifeCycle : 미리 정의된 빌드 순서
 
